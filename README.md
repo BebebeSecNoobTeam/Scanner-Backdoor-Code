@@ -43,5 +43,5 @@ root@kamoh:~/Documents/ex# php scan.php
 Execution time : 9.5367431640625E-7 seconds
 Total files : 11
 =======================================================================    
-
+ 
 </pre>
