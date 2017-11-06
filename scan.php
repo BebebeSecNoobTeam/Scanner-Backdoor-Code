@@ -22,7 +22,7 @@ $time_end = microtime(true);
 $time = $time_end - $time_start;
 
 error_reporting(0);
-class traveloka{
+class bebebe{
 
   function __construct($option){
       switch($option){
@@ -105,6 +105,6 @@ class traveloka{
 
 }
  
-$tes = new traveloka($argv[1]);
+$tes = new bebebe($argv[1]);
 
 ?>
