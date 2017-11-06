@@ -29,19 +29,7 @@ root@kamoh:~/Documents/ex# php scan.php
                  Researcher BBB Team
      ======================================== 
 
-[exec()] /root/Documents/ex/c (copy).php
-[shell_exec()] /root/Documents/ex/c (copy).php
-[passthru()] /root/Documents/ex/d (copy).php
-[str_replace()] /root/Documents/ex/scana.php
-[passthru()] /root/Documents/ex/d.php
-[exec()] /root/Documents/ex/c.php
-[shell_exec()] /root/Documents/ex/c.php
-[passthru()] /root/Documents/ex/d (another copy).php
-[exec()] /root/Documents/ex/c (another copy).php
-[shell_exec()] /root/Documents/ex/c (another copy).php
-=======================================================================
-Execution time : 9.5367431640625E-7 seconds
-Total files : 11
-=======================================================================    
+exec() /root/Documents/ex/c (copy).php
+
  
 </pre>
